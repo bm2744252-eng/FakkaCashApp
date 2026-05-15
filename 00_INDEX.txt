@@ -1,0 +1,28 @@
+ترتيب رفع الملفات على GitHub
+===================================
+
+01. .gitignore
+02. README.md
+03. HOW_TO_BUILD_FROM_PHONE.md
+04. settings.gradle.kts
+05. build.gradle.kts
+06. gradle.properties
+07. gradle/wrapper/gradle-wrapper.properties
+08. .github/workflows/build-apk.yml
+09. app/build.gradle.kts
+10. app/proguard-rules.pro
+11. app/src/main/AndroidManifest.xml
+12. app/src/main/java/com/fakka/cash/MainActivity.kt
+13. app/src/main/java/com/fakka/cash/Products.kt
+14. app/src/main/java/com/fakka/cash/VodafoneApi.kt
+15. app/src/main/res/values/colors.xml
+16. app/src/main/res/values/strings.xml
+17. app/src/main/res/values/themes.xml
+18. app/src/main/res/drawable/ic_launcher_foreground.xml
+19. app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+20. app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+
+===================================
+كل ملف اسمه يحتوي على المسار الكامل
+مفصول بـ _ بدل /
+وقت الرفع على GitHub، ارجّع _ لـ /
